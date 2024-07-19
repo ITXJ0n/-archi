@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cristobalvm10/Active-Developer-Badge.git"
+    "URL": "git+https://github.com/
+ITXJ0n/Active-Developer-Badge.git"
   },
   "keywords": [],
   "author": "",

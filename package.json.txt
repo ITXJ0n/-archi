@@ -15,9 +15,9 @@ ITXJ0n/Active-Developer-Badge.git"
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cristobalvm10/Active-Developer-Badge/issues"
+    "url": "https://github.com/ITXJ0n/Active-Developer-Badge/issues"
   },
-  "homepage": "https://github.com/cristobalvm10/Active-Developer-Badge#readme",
+  "homepage": "https://github.com/ITXJ0n/Active-Developer-Badge#readme",
   "dependencies": {
     "discord.js": "^14.6.0"
   }
